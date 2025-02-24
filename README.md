@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Project Screenshot](./qr-code%20code/screenshot.png)
+![Project Screenshot](screenshot.png)
 
 ### Links
 

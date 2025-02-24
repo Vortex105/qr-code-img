@@ -19,6 +19,7 @@
 
 body {
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
 	align-items: center;
 	min-height: 100vh;
@@ -57,7 +58,19 @@ body {
 	color: var(--Slate-500);
 }
 
+.attribution {
+	margin-top: 1rem;
+	font-size: 15px;
+	text-align: center;
+}
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
+
 @media screen and (max-width: 1440px) {
+	.attribution {
+		font-size: 12px;
+	}
 	.container {
 		padding: 10px 5px;
 		width: 300px;
