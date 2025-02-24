@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- 🌐 **Live Site:** [View Live Demo](https://your-live-demo-link.com)
+- 🌐 **Live Site:** [View Live Demo](https://qr-code-img.onrender.com)
 - 💾 **Solution URL:** [Frontend Mentor Submission](https://www.frontendmentor.io/solutions/your-solution-link)
 
 ---
@@ -45,6 +45,4 @@ Users should be able to:
 ## 👨‍💻 Author
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- GitHub - [@yourgithub](https://github.com/yourgithub)
-
----
+- GitHub - [@Vortex105](https://github.com/Vortex105)
