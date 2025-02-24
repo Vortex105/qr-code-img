@@ -18,7 +18,7 @@ Users should be able to:
 ### Links
 
 - 🌐 **Live Site:** [View Live Demo](https://qr-code-img.onrender.com)
-- 💾 **Solution URL:** [Frontend Mentor Submission](https://www.frontendmentor.io/solutions/your-solution-link)
+- 💾 **Solution URL:** [Frontend Mentor Submission](https://www.frontendmentor.io/solutions/card-sizing-using-flexbox-html-and-css-code-RegZghJUHT)
 
 ---
 
@@ -44,5 +44,5 @@ Users should be able to:
 
 ## 👨‍💻 Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Vortex105](https://www.frontendmentor.io/profile/Vortex105)
 - GitHub - [@Vortex105](https://github.com/Vortex105)
