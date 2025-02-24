@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Outfit', serif;
+}
+
+:root {
+	--White: hsl(0, 0%, 100%);
+	--Slate-300: hsl(212, 45%, 89%);
+	--Slate-500: hsl(216, 15%, 48%);
+	--Slate-900: hsl(218, 44%, 22%);
+
+	--Font-size: 15px;
+	--bold: 400;
+	--bolder: 700;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background-color: var(--Slate-500);
+}
+
+.container {
+	background-color: white;
+	border-radius: 15px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 15px 5px;
+	width: 400px;
+	box-shadow: 2px 2px 15px #00000080;
+}
+
+.container img {
+	border-radius: 12px;
+	width: 95%;
+}
+
+.container .text {
+	padding: 5px;
+	text-align: center;
+}
+.container .text .bold {
+	font-size: 1.7rem;
+	color: var(--Slate-900);
+	font-weight: var(--bolder);
+}
+
+.container .text p:not(.bold) {
+	text-align: center;
+	margin: 2rem 0;
+	color: var(--Slate-500);
+}
+
+@media screen and (max-width: 1440px) {
+	.container {
+		padding: 10px 5px;
+		width: 300px;
+	}
+
+	.container .text {
+		padding: 5px;
+	}
+	.container .text .bold {
+		font-size: 1.5rem;
+	}
+
+	.container .text p:not(.bold) {
+		text-align: center;
+		margin: 1.5rem 0;
+	}
+}
